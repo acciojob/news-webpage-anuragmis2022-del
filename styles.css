@@ -1,1 +1,36 @@
 /*  your css code here. If applicable */
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+	text-align:center;
+	
+}
+.img{
+	height:90px;
+	width:100px;
+	padding:3px
+	
+}
+.header{
+	background-color:#011e29;
+	color:white;
+	text-align:center;
+	padding:10px;
+	font-size:30px;
+	
+}
+
+.latest-news-section{
+	height:120px;
+	width:250px;
+	border:4px solid green;
+	background-color:white;
+	
+}
+
+.pictorial-news-section{
+	
+}
+
+
